@@ -1,0 +1,57 @@
+
+*{margin:0;
+  padding: 0;}
+.text-title{
+    font-size: 60px;
+    text-align: center;
+    padding-top: 20px;
+}
+.card-Featured-Products{
+    
+}    
+.card-selection{
+    max-width: 1361px;
+    margin: 0 auto;     
+}
+.card-nav{
+    display: flex;
+    justify-content: center;
+    padding: 18px 0px;
+}
+.card-tabs{
+    display: flex;    
+}
+#myLink{
+    color: black;
+}
+    
+.card-product{
+    width: calc(25%-20px);
+    display: flex;
+    gap: 20px;
+}
+.card-info{
+    text-align:center;
+}
+.card-image > img{
+    width: 100%;
+    border-radius: 15px;}
+.nav-star{
+    padding: 0px 15px;
+}
+.card-sale{
+        width: 100px;
+        height: 48px;
+        color: rgb(0, 0, 0);
+        border: 1px solid;
+        
+      
+}
+.card-info-title{
+    padding: 20px 0px;
+
+}
+.card-info-price{
+    padding: 10px 0px;
+
+}
